@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Lsp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

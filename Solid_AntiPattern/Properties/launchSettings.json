@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Solid_AntiPattern": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

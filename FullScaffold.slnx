@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FullScaffold/FullScaffold.csproj" />
+  <Project Path="MvcMonolithic/MvcMonolithic.csproj" Id="533dd147-7ca6-42c8-8b1a-df5fbf3613f6" />
+</Solution>
